@@ -1,2 +1,2 @@
-## Least suqares Monte Carlo for pricing and hedging Bermudan swaptions in European market
+## Least squares Monte Carlo for pricing and hedging Bermudan swaptions in European market
 
